@@ -34,19 +34,19 @@ This will launch and run a React Native application on an Android emulator or a 
 ## Screenshots
 
 Here are some screenshots to give you a sneak peek of our app:
-![Login Page](screenshots/Screenshot_1694691044.png){width=300px height=200px}
+![Login Page](screenshots/Screenshot_1694691044.png){width=150px height=100px}
 
-![Home Page](screenshots/Screenshot_1694691094.png){width=300px height=200px}
+![Home Page](screenshots/Screenshot_1694691094.png){width=150px height=100px}
 
-![Chats Page](screenshots/Screenshot_1694691110.png){width=300px height=200px}
+![Chats Page](screenshots/Screenshot_1694691110.png){width=150px height=100px}
 
-![Notifications Page](screenshots/Screenshot_1694691115.png){width=300px height=200px}
+![Notifications Page](screenshots/Screenshot_1694691115.png){width=150px height=100px}
 
-![Profile Page](screenshots/Screenshot_1694691123.png){width=300px height=200px}
+![Profile Page](screenshots/Screenshot_1694691123.png){width=150px height=100px}
 
-![Groups Page](screenshots/Screenshot_1694691143.png){width=300px height=200px}
+![Groups Page](screenshots/Screenshot_1694691143.png){width=150px height=100px}
 
-![Group_Detail Page](screenshots/Screenshot_1694691159.png){width=300px height=200px}
+![Group_Detail Page](screenshots/Screenshot_1694691159.png){width=150px height=100px}
 
 
 ## Contributing
