@@ -35,13 +35,13 @@ This will launch and run a React Native application on an Android emulator or a 
 
 Here are some screenshots to give you a sneak peek of our app:
 
-<img src="screenshots/Screenshot_1694691044.png" alt="Login Page" width="300" height="200">
-<img src="screenshots/Screenshot_1694691094.png" alt="Home Page" width="300" height="200">
-<img src="screenshots/Screenshot_1694691110.png" alt="Chats Page" width="300" height="200">
-<img src="screenshots/Screenshot_1694691115.png" alt="Notifications Page" width="300" height="200">
-<img src="screenshots/Screenshot_1694691123.png" alt="Profile Page" width="300" height="200">
-<img src="screenshots/Screenshot_1694691143.png" alt="Groups Page" width="300" height="200">
-<img src="screenshots/Screenshot_1694691159.png" alt="Group_Detail Page" width="300" height="200">
+<img src="screenshots/Screenshot_1694691044.png" alt="Login Page" width="300" height="500">
+<img src="screenshots/Screenshot_1694691094.png" alt="Home Page" width="300" height="500">
+<img src="screenshots/Screenshot_1694691110.png" alt="Chats Page" width="300" height="500">
+<img src="screenshots/Screenshot_1694691115.png" alt="Notifications Page" width="300" height="500">
+<img src="screenshots/Screenshot_1694691123.png" alt="Profile Page" width="300" height="500">
+<img src="screenshots/Screenshot_1694691143.png" alt="Groups Page" width="300" height="500">
+<img src="screenshots/Screenshot_1694691159.png" alt="Group_Detail Page" width="300" height="500">
 
 
 
