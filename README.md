@@ -4,7 +4,7 @@ HolaaHost App is a platform that brings users together, allowing them to form gr
 
 ## Installation
 
-To get started with Flightella on your local machine, follow these simple steps:
+To get started with Holaahost App on your local machine, follow these simple steps:
 
 1. **Clone the repository:**
 
@@ -23,7 +23,7 @@ To get started with Flightella on your local machine, follow these simple steps:
 
 ## Usage
 
-After successfully installing the dependencies, you can run Flightella on your local development server using the following command:
+After successfully installing the dependencies, you can run HolaaHost App on your local development enviroment using the following command:
 
  ```bash
   npx react-native run-android/ios 
@@ -47,7 +47,7 @@ Here are some screenshots to give you a sneak peek of our app:
 
 ## Contributing
 
-If you'd like to contribute to Flightella's landing page or report any issues, please check out our Contributing Guidelines.
+If you'd like to contribute to Holaahost mobile app or report any issues, please check out our Contributing Guidelines.
 
 ## License
 
